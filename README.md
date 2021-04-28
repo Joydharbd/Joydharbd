@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joydharbd
+- 👋 Hi, I’m Joydhar 🙂
 - 👀 I’m interested in Javascript ❤️
 - 🌱 I’m currently learning React and Node Js
 - 💞️ I’m looking to collaborate on ...
